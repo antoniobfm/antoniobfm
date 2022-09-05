@@ -1,3 +1,5 @@
+<img width="100%" src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTPLMeoGmFEzdQcwq6_yRaPmq0qdqr_9m51ACG4ngxYpJb5MY9drqk43eAGXx-a5seZX9vp5y4=w1920-h1081">
+
 <p>
   <h1 align="center"><b>Hi there, I'm Antônio</h1>
 </p>
