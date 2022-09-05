@@ -1,16 +1,13 @@
-<img width="100%" src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmSpZAAWv-J3_-T6XtEZB_yxJ5HgXT21pwU-qUZQFLiB0-YimDGgDgMBPBJ_p4GzAMM3blfTLk4=w1920-h1081">
-<!-- <div>
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTks5Mhsip2BQERgrArjBQzLH_pJrZFzxQASKcTlbpJXN6B3Yd21u4GMSiH-DmwDsjAVYBQ7FA=w1920-h1081">
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmRSdTxAQmzEcKzq1lYKcmE5o8bvWamQi3i16eT7B-Z0ekRfHa-2f5iGE2D5fS1kIbY8BCAUrno=w1920-h1081">
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmSpeRrv45n1sDHLS8Y-fUZe43X6iv7VHzhd4p7ilxUhN1yBHKY_A5cGYwGxK-yaOmiNlxTr5dg=w1920-h1081">
+<img width="100%" src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmSpZAAWv-J3_-T6XtEZB_yxJ5HgXT21pwU-qUZQFLiB0-YimDGgDgMBPBJ_p4GzAMM3blfTLk4=w1921-h1081">
+<div align="center">
+  <a href="https://twitter.com/antoniobfmoraes">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmQ3J028bbhugYhDvQc1tmdwSymp-TZEUfYCgEn5aVr6AKNs-orjjYesDLRiDIG0MWW-Yk3xAic=w1420-h1000">
+  </a>
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmRU5NvNO9mwgdniUeCFavAqhsLpy3c5GWHIuQ-5MT6MA76wljlRVPeSFyhWIYPox9U6UMlWGQ0=w1420-h1000">
+  <a href="https://www.linkedin.com/in/antoniobfm/">
+    <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTLDdiwQs7V7SZhpfz3p6xO8M_90H8MjuQP791J3HNw3ATBiVJoKQiplVIweszwQmoRYOUr8JQ=w1420-h5000">
+  </a>
 </div>
-<p>
-  <h1 align="center"><b>Hi there, I'm Antônio</h1>
-</p> -->
-<p align="center">
-  <a href="https://twitter.com/antoniobfmoraes"><img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/antoniobfm/"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
 <br />
 <br />
 
