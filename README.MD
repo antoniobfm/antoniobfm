@@ -1,59 +1,32 @@
-<img width="100%" src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmSpZAAWv-J3_-T6XtEZB_yxJ5HgXT21pwU-qUZQFLiB0-YimDGgDgMBPBJ_p4GzAMM3blfTLk4=w1921-h1081">
-<div align="center">
-  <a href="https://twitter.com/antoniobfmoraes">
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmQ3J028bbhugYhDvQc1tmdwSymp-TZEUfYCgEn5aVr6AKNs-orjjYesDLRiDIG0MWW-Yk3xAic=w1420-h1000">
-  </a>
-  <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmRU5NvNO9mwgdniUeCFavAqhsLpy3c5GWHIuQ-5MT6MA76wljlRVPeSFyhWIYPox9U6UMlWGQ0=w1420-h1000">
-  <a href="https://www.linkedin.com/in/antoniobfm/">
-    <img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTLDdiwQs7V7SZhpfz3p6xO8M_90H8MjuQP791J3HNw3ATBiVJoKQiplVIweszwQmoRYOUr8JQ=w1420-h5000">
-  </a>
-</div>
-<br />
-<br />
+### Social Media
+[Twitter](https://twitter.com/antoniobfmoraes) | [LinkedIn](https://www.linkedin.com/in/antoniobfm/) | [Youtube](https://www.youtube.com/channel/UCN77hUjpAgIcSFN0oOQSMBA)
 
-<h2 align="center">My favorite projects</h2>
-<br />
-<br />
+### Some Projects I Have Created
 
-<div align="center">
+<div>
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniobfm&repo=temchurras-front)](https://github.com/antoniobfm/temchurras-front)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniobfm&repo=dreamwall)](https://github.com/antoniobfm/dreamwall)
-
 </div>
 
-<br />
-<br />
+### Languages and Tools
+
 <p>
-<h3 align="center"> Languages and Tools</h3>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/>
+  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
+  <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="expressjs" width="40" height="40"/>
+  <img alt="Nginx" width="40px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
+  <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img alt="PostgreSQL" width="40px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
+  <img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
+  <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
 </p>
-<br />
-<p align="center">
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" width="40" height="40"/>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
-<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="node" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="expressjs" width="40" height="40"/>
-<img alt="Nginx" width="40px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
-<img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img alt="PostgreSQL" width="40px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
-<img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
 
-<img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-   </p>
-<br />
-<br />
-
----
-
-<br />
-<div align="center">
+### Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobfm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
