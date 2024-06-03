@@ -6,10 +6,6 @@
 
 ## My name is Antônio Moraes
 
-### Languages and Tools
-
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nodejs,express,nginx,postgres,git,github,figma)](https://skillicons.dev)<br/>
-
-### Stats
 
 [![Antônio Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniobfm)](https://github.com/anuraghazra/github-readme-stats)
