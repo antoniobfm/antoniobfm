@@ -6,13 +6,6 @@
 
 ## My name is Antônio Moraes
 
-
-## Projects
-<div>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniobfm&repo=temchurras-front)](https://github.com/antoniobfm/temchurras-front)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=antoniobfm&repo=dreamwall)](https://github.com/antoniobfm/dreamwall)
-</div>
-
 ### Languages and Tools
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,redux,nodejs,express,nginx,postgres,git,github,figma)](https://skillicons.dev)<br/>
